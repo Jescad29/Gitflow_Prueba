@@ -11,3 +11,5 @@ print ("aplicacion de git branch -d -rama-, para borrar la rama de login y su lo
 print ("Probar que nuestra maquina realmente este conectada al repositorio de github - Listo ")
 print ("Aplicar git remote add origin git@github.com:Jescad29/Gitflow_Prueba.git - Listo")
 print ("Aplicar git push -u origin main para subir mi repositorio - Todo correcto")
+print ("Aplicar git pull para obtene cambios del repositorio remoto a mi repositorio local")
+
