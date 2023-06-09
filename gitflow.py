@@ -12,4 +12,5 @@ print ("Probar que nuestra maquina realmente este conectada al repositorio de gi
 print ("Aplicar git remote add origin git@github.com:Jescad29/Gitflow_Prueba.git - Listo")
 print ("Aplicar git push -u origin main para subir mi repositorio - Todo correcto")
 print ("Aplicar git pull para obtene cambios del repositorio remoto a mi repositorio local")
+print ("aplicacion de git fetch para descargar el historial de cambios")
 
