@@ -1,3 +1,5 @@
 print ("primer cambio en git - todo correcto")
 print ("creacion de .gitignore -  todo correcto")
 print("verificacion de git diff - todo correcto")
+print("Probar git checkout e indicar HEAD - todo correcto")
+print ("Aplicacion de git reset --hard y git reflog")
