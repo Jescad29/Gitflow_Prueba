@@ -14,3 +14,10 @@ print ("Aplicar git push -u origin main para subir mi repositorio - Todo correct
 print ("Aplicar git pull para obtene cambios del repositorio remoto a mi repositorio local")
 print ("aplicacion de git fetch para descargar el historial de cambios")
 
+print ("Para iniciar git flow primero checamos si tenemo alguna version con git flow version y si no nos sale")
+print ("Utilizamos brew install git-flow")
+print ("Para iniciarlo es git flow init y nos posicionara en la rama develop, para abrir otra rama ")
+print ("Por ejemplo una que despliegue los cambios a la rama develop abrimos una rama feature con el comando git flow feature start -nombre-")
+print ("Para desplegar la version en la rama main utilizamos git flow release start -nombre-")
+print ("Ambas ramas se cierran sustituyendo finish por start en el comando")
+print ("Ya nada mas los subimos a nuestro git hub con push")
